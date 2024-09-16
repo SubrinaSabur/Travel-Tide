@@ -38,5 +38,5 @@ A **rules-based approach** was employed to segment customers into 10 distinct gr
 
 ## Access the Colab Notebook
 
-[Access the Google Colab notebook for this project (here)](https://colab.research.google.com/drive/1dCTobnHSQ9BevEg-pD5J1RlKarA79HUR?usp=sharing) 
+Access the Google Colab notebook for this project [(here)](https://colab.research.google.com/drive/1dCTobnHSQ9BevEg-pD5J1RlKarA79HUR?usp=sharing) 
  
