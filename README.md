@@ -36,5 +36,5 @@ A **rules-based approach** was employed to segment customers into 10 distinct gr
   - **Feature Engineering**: Handled in a second SQL query named `user_table`.
   - **Final DataFrame**: The result of the second SQL query was used to create the `user_table` DataFrame in Pandas for further analysis.
 
-
+Link for Colab: https://colab.research.google.com/drive/1dCTobnHSQ9BevEg-pD5J1RlKarA79HUR?usp=sharing
  
