@@ -38,6 +38,10 @@ A **rules-based approach** was employed to segment customers into 10 distinct gr
   - **Final DataFrame**: The result of the second SQL query was used to create the `user_table` DataFrame in Pandas for further analysis.
 
 ## Access the Colab Notebook
+Access the Google Colab notebook for this project [(here)](https://colab.research.google.com/drive/1dCTobnHSQ9BevEg-pD5J1RlKarA79HUR?usp=sharing) 
+## Presentation
+
+Watch the presentation video [here](https://drive.google.com/file/d/1vL48dkpPK_etCOSxM_dQj4367zQ3BgSA/view?usp=sharing) 
 
 #**Recommendation**
 
@@ -51,8 +55,6 @@ A **rules-based approach** was employed to segment customers into 10 distinct gr
 
 5. Customer Feedback and Follow-Up: Continuously collect and analyze customer feedback to refine and enhance the perk offerings. This ongoing process will help in adapting the perks to better meet customer needs and preferences.
 
-Access the Google Colab notebook for this project [(here)](https://colab.research.google.com/drive/1dCTobnHSQ9BevEg-pD5J1RlKarA79HUR?usp=sharing) 
-## Presentation
 
-Watch the presentation video [here](https://drive.google.com/file/d/1vL48dkpPK_etCOSxM_dQj4367zQ3BgSA/view?usp=sharing) 
+
  
